@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Zsolt:Zsoca123@contactkeeper.ceknk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "titok"
+}
